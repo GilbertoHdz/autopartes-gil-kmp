@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.gilbertohdz.autoparts.android"
+    namespace = "com.gilbertohdz.autoparts"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.gilbertohdz.autoparts.android"
+        applicationId = "com.gilbertohdz.autoparts"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1

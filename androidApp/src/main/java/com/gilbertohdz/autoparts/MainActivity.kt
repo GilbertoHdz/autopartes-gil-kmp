@@ -1,9 +1,8 @@
-package com.gilbertohdz.autoparts.android
+package com.gilbertohdz.autoparts
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.gilbertohdz.autoparts.App
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

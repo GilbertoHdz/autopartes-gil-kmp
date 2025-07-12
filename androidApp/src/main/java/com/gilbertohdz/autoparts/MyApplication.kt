@@ -1,4 +1,4 @@
-package com.gilbertohdz.autoparts.android
+package com.gilbertohdz.autoparts
 
 import android.app.Application
 
