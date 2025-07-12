@@ -1,4 +1,4 @@
-package com.gilbertohdz.autoparts.android
+package com.gilbertohdz.autoparts.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
